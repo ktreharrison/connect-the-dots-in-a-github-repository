@@ -1,0 +1,18 @@
+repo_name: ktreharrison/connect-the-dots-in-a-github-repository
+report_id: b4c49eb4594773bc535bab916c717669
+repo_type: Public
+timestamp: '2023-11-09T13:20:23+00:00'
+requested_by: ktreharrison
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
