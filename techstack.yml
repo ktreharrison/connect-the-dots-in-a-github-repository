@@ -1,7 +1,8 @@
 repo_name: ktreharrison/connect-the-dots-in-a-github-repository
-report_id: bc9e52e23957ffb98a6ba7df12e4782f
+report_id: b4c49eb4594773bc535bab916c717669
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:27:23+00:00'
+timestamp: '2024-01-04T14:53:50+00:00'
 requested_by: ktreharrison
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ktreharrison/connect-the-dots-in-a-github-repository
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -22,6 +24,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ktreharrison/connect-the-dots-in-a-github-repository/blob/main/docs/index.html
   detection_source: docs/index.html
   last_updated_by: Briana Swift
   last_updated_on: 2019-09-10 14:15:36.000000000 Z
